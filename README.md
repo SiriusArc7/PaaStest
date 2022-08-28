@@ -1,0 +1,1 @@
+heroku に push するだけ
